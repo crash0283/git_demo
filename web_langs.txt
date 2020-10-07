@@ -3,3 +3,4 @@ Web Languages:
 HTML
 CSS
 JavaScript
+JSX
